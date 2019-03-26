@@ -1,0 +1,63 @@
+{
+    "title":"IT Title Lorem Ipsum",
+    "description":"IT Description Officia ut nulla voluptate voluptate exercitation anim. Exercitation tempor laboris fugiat cillum duis culpa sunt deserunt qui elit.",
+
+    "top_gallery_title": "IT Gallery Top",
+    "top_gallery_items":
+        [   
+            {
+                "thumb":"src/assets/img/thumb_0_top.jpg",
+                "full":"src/assets/img/full_0_top.jpg"
+            },
+
+            {
+                "thumb":"src/assets/img/thumb_1_top.jpg",
+                "full":"src/assets/img/full_1_top.jpg"
+            },
+
+            {
+                "thumb":"src/assets/img/thumb_0_top.jpg",
+                "full":"src/assets/img/full_0_top.jpg"
+            },
+
+            {
+                "thumb":"src/assets/img/thumb_1_top.jpg",
+                "full":"src/assets/img/full_1_top.jpg"
+            },
+
+            {
+                "thumb":"src/assets/img/thumb_0_top.jpg",
+                "full":"src/assets/img/full_0_top.jpg"
+            },
+
+            {
+                "thumb":"src/assets/img/thumb_1_top.jpg",
+                "full":"src/assets/img/full_1_top.jpg"
+            }
+        ],
+
+    "manifest":"IT Manifest Dolore cillum occaecat non ipsum nisi dolore consequat excepteur pariatur. Magna ad voluptate tempor proident quis. Minim culpa ea id cillum ipsum sit cillum. Mollit irure deserunt magna elit nostrud ad. Minim ipsum dolor exercitation consequat incididunt culpa mollit non velit aliqua ullamco.",
+
+    "bottom_gallery_title": "IT Gallery Bottom",
+    "bottom_gallery_items":[
+        {
+            "thumb":"src/assets/img/thumb_0_bottom.jpg",
+            "full":"src/assets/img/full_0_bottom.jpg"
+        },
+
+        {
+            "thumb":"src/assets/img/thumb_1_bottom.jpg",
+            "full":"src/assets/img/full_1_bottom.jpg"
+        },
+
+        {
+            "thumb":"src/assets/img/thumb_0_bottom.jpg",
+            "full":"src/assets/img/full_0_bottom.jpg"
+        },
+
+        {
+            "thumb":"src/assets/img/thumb_1_bottom.jpg",
+            "full":"src/assets/img/full_1_bottom.jpg"
+        }
+    ]
+}
